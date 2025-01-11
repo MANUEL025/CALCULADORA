@@ -7,7 +7,7 @@
 
 body  {
     min-height: 100vh;
-    background-color: #f0f0f0;
+    background-color: #e49797;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,7 +15,7 @@ body  {
 
 
 .calculadora {
-    background-color: #ffffff;
+    background-color: #d18080;
     color: #333333;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -29,7 +29,7 @@ body  {
 
 .pantalla {
     grid-column: 1 / -1;
-    background-color: #f0f0f0;
+    background-color: #e0c5c5;
     padding: 1.5rem;
     font-size: 2rem;
     text-align: right;
@@ -54,7 +54,7 @@ body  {
 }
 
 .btn:hover {
-    background-color: #555555;
+    background-color: #753030;
 }
 
 #cero {
